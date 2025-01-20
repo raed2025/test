@@ -1,0 +1,112 @@
+
+{
+  "status": false,
+  "level": 2,
+  "yearOfQuiz": 2023,
+  "numberOfModel": 1,
+  "country": "yemen",
+  "city": "sana'a",
+  "grade": 50,
+  "statusOfQuiz": 1,
+  "subject": "13_TR_IS",
+  "TrueOrFalseQuestions": [
+    {
+      "ID": 1,
+      "questionClass": 1,
+      "question": "أعلى شعب الإيمان إماطة الأذى عن الطريق.",
+      "answer": 0,
+      "favorite": 0,
+      "status": true,
+      "subject": "13_TT_IS",
+      "questionType": 1,
+      "questionCategory": 1,
+      "explanation": null,
+      "unit": null,
+      "lessons": null,
+      "questionSource": 0,
+      "correctAnswerSource": 0
+    },
+    {
+      "ID": 2,
+      "questionClass": 1,
+      "question": "يستطيع إلانسان اكتشاف الغيب المطلق وتحويله إلى المعلوم.",
+      "answer": 0,
+      "favorite": 0,
+      "status": true,
+      "subject": "13_TT_IS",
+      "questionType": 1,
+      "questionCategory": 1,
+      "explanation": null,
+      "unit": null,
+      "lessons": null,
+      "questionSource": 0,
+      "correctAnswerSource": 0
+    }
+  ],
+  "MultiChoiceQuestions": [
+    {
+      "ID": 21,
+      "questionClass": 2,
+      "question": "قائمة على الحجة والبرهان لا تقبل الزيادة ولا النقصان.",
+      "answer": {
+        "FirstOption": "العقيدة",
+        "SecondOption": "الأخلاق",
+        "ThirdOption": "الشريعة",
+        "FourthOption": "المعاملة"
+      },
+
+      "favorite": 0,
+      "status": true,
+      "subject": "13_TT_IS",
+      "questionType": 1,
+      "questionCategory": 1,
+      "explanation": null,
+      "unit": null,
+      "lessons": null,
+      "questionSource": 0,
+      "correctAnswerSource": 0
+    },
+    {
+      "ID": 22,
+      "questionClass": 2,
+      "question": "قال الله تعالى : (77777777777777777777777) دلت الآية على .",
+      "answer": {
+        "FirstOption": "الوحدانية",
+        "SecondOption": "التنزيه",
+        "ThirdOption": "الكمال",
+        "FourthOption": "القدرة"
+      },
+      "favorite": 0,
+      "status": true,
+      "subject": "13_TT_IS",
+      "questionType": 1,
+      "questionCategory": 1,
+      "explanation": null,
+      "unit": null,
+      "lessons": null,
+      "questionSource": 0,
+      "correctAnswerSource": 0
+    },
+    {
+      "ID": 23,
+      "questionClass": 2,
+      "question": ".( اجعل لنا ذات أنواط كما لهم ذات أنواط ) طلب تقدم به جهلة",
+      "answer": {
+        "FirstOption": "مسلمة الفتح",
+        "SecondOption": "بني إسرائيل",
+        "ThirdOption": "أهل العقبة",
+        "FourthOption": "أصحاب السفينة"
+      },
+      "favorite": 0,
+      "status": true,
+      "subject": "13_TT_IS",
+      "questionType": 1,
+      "questionCategory": 1,
+      "explanation": null,
+      "unit": null,
+      "lessons": null,
+      "questionSource": 0,
+      "correctAnswerSource": 0
+    }
+  ]
+}
